@@ -1,36 +1,35 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/banners/442355791412854784/e4c3381efba7362b4d8e8b7e918dd8dc.png?size=4096" style"width: 100%;border-radius:15px">
+  <img src="https://images-ext-1.discordapp.net/external/3PgHi98Qxt-Qk9xGjiCzy58xoAdlWDJZKXhaEKeNHBs/https/cdn.discordapp.com/emojis/929795388960018472.png?width=102&height=102" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+## <div align="center">I'm ApTel Owner, mainly a Discord Bot Developer! Working since 2019 on Bots 🚀</div>  
   
 ***
 
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
+- 🔭 We are currently working on a [**Multi Function Discord Bot with more Features!**](https://aptel.apteldevelopmen.repl.co/)
   
 
-- 🌱 I’m currently coding in **Javascript** and C#.  
+- 🌱 We are currently coding in **Javascript** and html#.  
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!.
+- ❓  we love coding Discord Bots, I also love helping, developing other server!.
   
 <br/>
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [ApTel Development Discord Server](https://dsc.gg/aptel.dev) | [Website](https://aptel.apteldevelopmen.repl.co/)
+<a href="https://dsc.gg/aptel.dev"></a>
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
+## Support Us
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
+[![2022's best Music Bot | Lego Music](https://cdn.discordapp.com/emojis/933726690759282738.gif?size=80&quality=lossless)](https://discord.com/api/oauth2/authorize?client_id=933726364085940265&permissions=8&scope=bot%20applications.commands)
+[![ApTel+](https://images-ext-2.discordapp.net/external/j3PwkB30HcTAMhWPApLmVwkQJBhb4iGWDt8E20_D_bg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/932883048360452146/abae2a09a7437e539f75012effd67690.webp?width=474&height=474)](https://discord.com/api/oauth2/authorize?client_id=932883048360452146&permissions=8&scope=bot%20applications.commands)
 
 # Credits
 
-> If consider using this Bot, make sure to credit me!
+> If consider using this Bot, make sure to credit us!
