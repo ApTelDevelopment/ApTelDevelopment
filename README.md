@@ -2,7 +2,7 @@
   <img src="https://images-ext-1.discordapp.net/external/3PgHi98Qxt-Qk9xGjiCzy58xoAdlWDJZKXhaEKeNHBs/https/cdn.discordapp.com/emojis/929795388960018472.png?width=102&height=102" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">I'm ApTel Owner, mainly a Discord Bot Developer! Working since 2019 on Bots 🚀</div>  
+## <div align="center">ApTel Development, mainly a Discord Developers! We are worling on Bots since 2021 🚀</div>  
   
 ***
 
@@ -32,4 +32,4 @@
 
 # Credits
 
-> If consider using this Bot, make sure to credit us!
+> If you are using our coded files , please make us to give credits!
