@@ -6,7 +6,7 @@
   
 ***
 
-- 🔭 We are currently working on a [**Multi Function Discord Bot with more Features!**](https://aptel.apteldevelopmen.repl.co/)
+- 🔭 We are currently working on a [**ApTel+!**](https://aptel.apteldevelopmen.repl.co/)
   
 
 - 🌱 We are currently coding in **Javascript** and html#.  
