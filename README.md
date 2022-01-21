@@ -28,7 +28,7 @@
 > You can always Support me by inviting one of my **own Discord Bots**
 
 [![2022's best Music Bot | Lego Music](https://cdn.discordapp.com/emojis/933726690759282738.gif?size=80&quality=lossless)](https://discord.com/api/oauth2/authorize?client_id=933726364085940265&permissions=8&scope=bot%20applications.commands)
-[![ApTel+](https://images-ext-2.discordapp.net/external/j3PwkB30HcTAMhWPApLmVwkQJBhb4iGWDt8E20_D_bg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/932883048360452146/abae2a09a7437e539f75012effd67690.webp?size=80)](https://discord.com/api/oauth2/authorize?client_id=932883048360452146&permissions=8&scope=bot%20applications.commands)
+[![ApTel+](https://cdn.discordapp.com/emojis/934060439317397546.webp?size=80&quality=lossless)](https://discord.com/api/oauth2/authorize?client_id=932883048360452146&permissions=8&scope=bot%20applications.commands)
 
 # Credits
 
